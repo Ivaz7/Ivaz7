@@ -6,7 +6,7 @@
 
 ###
 
-  <p align="left">- 🔭 I’m currently working on Weather App<br><br>- 🌱 I’m currently learning Node.js<br><br>- 💬 Ask me about React and Redux<br><br>- 📫 How to reach me ivazreza@gmail.com</p>
+  <p align="left">- 🔭 I’m currently working on Weather App<br><br>- 🌱 I’m currently learning D3.js (Data Visualizaion)<br><br>- 💬 Ask me about React and Redux<br><br>- 📫 How to reach me ivazreza@gmail.com</p>
 
 ###
 
