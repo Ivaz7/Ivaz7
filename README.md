@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Currently working on a Netflix Clone<br>📊 Learning Data Visualization with D3.js<br>🤝 Looking to collaborate on Frontend Projects<br>🛠️ Looking to help with React or JavaScript<br>💬 Ask me about React & JavaScript<br>🎲 Fun fact: I'm totally random! 😆
+💻 Currently working on a Netflix Clone<br>📊 Learning Data Visualization with D3.js<br>🤝 Looking to collaborate on Frontend Projects<br>🛠️ Looking to help with React or JavaScript<br>💬 Ask me about React, JavaScript, CSS, or SCSS<br>🎲 Fun fact: I'm totally random! 😆
 
 
 ## 🌐 Socials:
