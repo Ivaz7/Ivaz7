@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Currently working NextJs Self Portfolio Web<br>📊 Learning NextJs and Database<br>🤝 Looking to collaborate on Frontend Projects<br>🛠️ Looking to help with React, CSS or SCSS logic<br>💬 Ask me about React, JavaScript, CSS, or SCSS<br>🎲 Fun fact: I'm totally random! 😆
+💻 Currently working Exercise Web App<br>📊 Learning NodeJs & ExpressJs (Backend web)<br>🤝 Looking to collaborate on Frontend Projects<br>🛠️ Looking to help with React, CSS or SCSS logic<br>💬 Ask me about React, JavaScript, CSS, or SCSS<br>🎲 Fun fact: I'm totally random! 😆
 
 
 ## 🌐 Socials:
